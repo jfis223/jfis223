@@ -1,16 +1,25 @@
-### Hi there 👋
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Joaquín</h3>
 
-<!--
-**jfis223/jfis223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Views -->
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.joaquinfischer.com" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/joaquin-fischer/" target="_blank">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <!-- About section -->
+
+---
+
+I'm an xperienced Frontend Developer, adept at collaborating with cross-functional teams to deliver high-quality solutions. Skilled in optimizing website performance and staying updated with emerging technologies to drive business success.
+
+
+- 🔭 I’m currently working on a project mixing blockchain technologies, THREE.JS and William Shakespeare
+- 🌱 I’m currently learning more about blockchain, Docker and THREE.JS.
+- 📫 How to reach me: through my website!
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a voracious reader
+
+<!-- About section: END -->
+ 
