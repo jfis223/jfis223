@@ -12,7 +12,7 @@
 
 ---
 
-I'm an xperienced Frontend Developer, adept at collaborating with cross-functional teams to deliver high-quality solutions. Skilled in optimizing website performance and staying updated with emerging technologies to drive business success.
+I'm an experienced Frontend Developer, adept at collaborating with cross-functional teams to deliver high-quality solutions. Skilled in optimizing website performance and staying updated with emerging technologies to drive business success.
 
 
 - 🔭 I’m currently working on a project mixing blockchain technologies, THREE.JS and William Shakespeare
